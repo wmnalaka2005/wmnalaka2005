@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm W.M. Nalaka  
 
-<!--
-**wmnalaka2005/wmnalaka2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Undergraduate Fullstack Software Engineer**  
+🎓 Pursuing **BSc (Hons) Software Engineering** at **JIAT / BCU**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 💡 Passionate about building scalable, user-friendly applications.  
+- 🌐 Exploring both **frontend** and **backend** technologies.  
+- 📱 Interested in **mobile app development** and **fullstack solutions**.  
+- 🛠 Always learning and improving my craft.  
+
+---
+
+## 🛠️ Technology Stack
+
+### 🎨 Frontend  
+**Languages**  
+- **HTML** → Structure of web pages  
+- **CSS** → Styling of web pages  
+- **JavaScript** → Logic/behavior in the browser  
+- **TypeScript** → JavaScript with types (for safer, scalable code)  
+
+**Frameworks / Libraries / Tools**  
+- **React Native** → Mobile app frontend framework (iOS & Android)  
+- **Tailwind CSS** → Utility-first CSS framework for styling  
+- **Bootstrap** → CSS + JS framework for responsive design  
+
+---
+
+### ⚙️ Backend  
+**Languages**  
+- **PHP** → Server-side scripting language  
+- **Java** → Versatile backend language   
+- **C++** → System-level programming, performance-heavy apps  
+- **C#** → Backend + enterprise apps 
+
+**Frameworks**  
+- **Laravel** → PHP framework for backend development  
+
+---
+
+## 📫 Connect with Me
+- 💼 GitHub: [github.com/wmnalaka2005](https://github.com/wmnalaka2005)  
+- 📧 Email: *wmnalaka.zoom@gmail.com*   
+
